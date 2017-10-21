@@ -18,6 +18,9 @@ python3.6 changeChannel.py <username> <password> <channel> <stb-mac-address>
 Example:
 
 python3.6 changeChannel.py johnsmith 123456789 82 1B2C3D4E5F0A
+
+Get Mac Addresses for your STB:
+python3.6 getMacAddresses <username> <password>
 ```
 
 ## Development
